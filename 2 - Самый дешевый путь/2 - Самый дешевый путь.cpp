@@ -1,7 +1,13 @@
-﻿#include <iostream>
-#include <vector>
+﻿/*
+Author: JOURNOUD Lucas
+Date: 2025-03-08
+Website: Yandex - CodeRun
+Problems: 2. Самый дешевый путь
+Category: Algorithms
+*/
 
-void PrintVector(std::vector<std::vector<int>> maze);
+#include <iostream>
+#include <vector>
 
 int main()
 {
